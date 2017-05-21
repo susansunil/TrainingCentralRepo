@@ -7,7 +7,6 @@ public class TaskInfoDTO {
 	private String taskName;
 	private Date startDate;
 	private Date endDate;
-	
 	public String getTaskName() {
 		return taskName;
 	}
